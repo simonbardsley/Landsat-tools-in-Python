@@ -6,8 +6,8 @@
 # Author:      Simon Bardsley
 #
 # Created:     19/06/2013
-# Copyright:   (c) Owner 2013
-# Licence:
+# Modified:    27/03/2017
+# Licence:Creative Commons BY 4.0
 #-------------------------------------------------------------------------------
 print "Importing modules..."
 import os, sys, io, arcpy, math
